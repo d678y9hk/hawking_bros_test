@@ -1,0 +1,4 @@
+1) sudo docker compose up
+2) ./tasks/1/run.sh
+2) ./tasks/2/run.sh
+2) ./tasks/3/run.sh
